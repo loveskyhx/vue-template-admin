@@ -1,0 +1,139 @@
+ .box {
+     /*flex头部*/
+     .header {
+         width: 100%;
+		 min-width: 1024px;
+         background: #409EFF;
+         color: #fff;
+         position: absolute;
+         top: 0;
+         /*以上设置是重点必须的*/
+         
+         line-height: 40px;
+//       span{
+//           font-size: 23px;
+//           position: relative;
+//           top: 5px;
+//           left: 4.5px;
+//       }
+         i{
+            font-size: 23px; 
+         }
+         
+         .dropdown {
+             font-size: 18px;
+             color: white;
+             height: 50px;
+             float: right;
+             position: relative;
+             bottom: 10px;
+         }
+         .loginCont {
+             cursor: pointer;
+         }
+     }
+     /*搭建主体高度*/
+     .content {
+         width: 100%;
+		 min-width: 1024px;
+         position: absolute;
+         top: 51px;
+         bottom: 25px;
+     }
+     /*内容区域的*/
+     .content .container {      
+         padding: 0px;
+         height: 100%;
+         overflow: auto;
+         /*以上设置是重点必须的*/
+     }
+     
+
+
+     
+     .maincontainer {
+         .mainheader {  
+             margin-left: 5px;  
+             padding: 0px;
+             padding-right: 57px;
+             border-top: solid 1px white;
+             .closetab {
+                 font-size: 25px;
+                 border-radius: 0px;
+             }
+             .mainheadertab {
+                 position: absolute;
+                 right: 0px;
+                 top: 0px;
+             }
+         }
+         .container{
+             padding: 5px;
+         }
+     }
+     /*设置滚动条的默认样式*/
+     .container::-webkit-scrollbar {
+         /*滚动条整体样式*/
+         width: 10px;
+         /*高宽分别对应横竖滚动条的尺寸*/
+         height: 10px;
+         /*高宽分别对应横竖滚动条的尺寸*/
+     }
+     .container::-webkit-scrollbar-thumb {
+         /*滚动条里面小方块*/
+         border-radius: 5px;
+         background:rgba(187, 187, 187, 0.8);
+     }
+     .container::-webkit-scrollbar-thumb:hover {
+         background: rgba(187, 187, 187,1);
+     }
+     .container::-webkit-scrollbar-thumb:active {
+         background: #AAAAAA;
+     }
+     .container::-webkit-scrollbar-track {
+         /*滚动条里面轨道*/
+         -webkit-box-shadow: inset 0 0 5px rgba(240, 248, 255, 0.2);
+         border-radius: 15px;
+         background: rgba(176, 196, 222, 0.7);
+     }
+     /*侧边栏的高度*/
+     .content .aside {
+         height: 100%;
+         border-right: solid 1px #DCDFE6;
+         border-bottom:solid 1px #DCDFE6;
+         border-top:solid 1px #DCDFE6;
+         border-top-right-radius: 25px;
+         border-bottom-right-radius:15px;
+         overflow: auto;
+     }
+      //左右图标背景颜色
+     .asidIconBac { 
+        background:#EEEEEE;
+        text-align: center;
+     }
+     //左右图标样式
+        #iconstyle {
+        color: #606266;
+        font-size: 19px;
+        vertical-align: middle;
+    }
+     
+     
+     
+     /*底部的样式*/
+     .footer {
+         width: 100%;
+         background:#409EFF;
+         color: #fff;
+         position: absolute;
+         bottom: 0;
+         /*以上设置是重点必须的*/
+         text-align: center;
+         line-height: 20px;
+         a:hover{
+             cursor: Pointer;
+             opacity: 0.8;
+         }
+     }
+ }
+ 

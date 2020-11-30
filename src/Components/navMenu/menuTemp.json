@@ -1,0 +1,197 @@
+[
+    {
+        "id":"000",
+        "name":"后台管理系统",
+        "href":null,
+        "icon":"fa fa-home",
+        "level":"null", 
+        "children":[
+            {
+                "id":"",
+                "name":"首页",
+                "icon":"fa fa-pagelines",
+                "href":"/homepage"
+            }
+
+        ]
+    },
+    
+     {
+        "id":"10",
+        "name":"基础功能块",
+        "href":"null",
+        "icon":"fa fa-archive",
+        "level":"null",
+        "children":[
+             {
+                "id":"11",
+                "name":"拼音简码搜索",
+                "href":"/spellsearch",       
+                "icon":"fa fa-search"
+            },
+            
+            {
+                "id":"12",
+                "name":"动态锚点",
+                "href":"/anchor",       
+                "icon":"fa fa-anchor"
+            }
+        ]
+    } ,
+    
+    
+    
+
+    {
+        "id":"111",
+        "name":"表格功能",
+        "href":null,
+        "icon":"fa fa-table",
+        "level":"null",
+        "children":[
+            {
+                "id":"",
+                "name":"表格拖拽",
+                "href":"/table",
+                "children":[
+
+                ]
+            },
+            {
+                "id":"",
+                "name":"表格导出",
+                "href":"/tableExport",
+                "children":[
+
+                ]
+            }
+
+        ]
+    },
+    {
+        "id":"222",
+        "name":"Vue图表",
+        "href":null,
+        "icon":"fa fa-bar-chart",
+        "level":"null",
+        "children":[
+            {
+                "id":"",
+                "name":"vchar",
+                "href":"/vchar",
+                "children":[
+
+                ]
+            }
+        ]
+    },
+    {
+        "id":"333",
+        "name":"新手教程",
+        "href":"",
+        "icon":"fa fa-cog",
+        "level":"null",
+        "children":[
+            {
+                "id":"444",
+                "name":"intro",
+                "href":"/intro",
+                "children":[
+
+                ]
+            }
+        ]
+    },
+    {
+        "id":"555",
+        "name":"富文本编辑器",
+        "href":null,
+        "icon":"fa fa-text-height",
+        "level":"null",
+        "children":[
+            {
+                "id":"",
+                "name":"Vue-Quill-Editor",
+                "href":"/VueQuillEditor",
+                "children":[
+
+                ]
+            }
+        ]
+    },
+        {
+        "id":"666",
+        "name":"多级菜单",
+        "href":"null",
+        "icon":"fa fa-bars",
+        "level":"null",
+        "children":[
+            {
+                "id":"6666",
+                "name":"一级菜单",
+                "href":"",
+                "iconright":"",
+                "children":[
+                     {
+                     	"id":"66666",
+			            "name":"二级菜单",
+			            "href":"",
+			             "iconright":"",
+			             "children":[
+                     {
+                     	"id":"666666",
+			            "name":"三级级菜单",    
+			            "href":"/menu"	
+                     }
+                ]	
+                     }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"777",
+        "name":"页面打印",
+        "href":"null",
+        "icon":"fa fa-print",
+        "level":"null",
+        "children":[
+            {
+                "id":"",
+                "name":"printPreview",
+                "href":"/printPreview"    
+            }
+        ]
+    },
+
+      {
+        "id":"999",
+        "name":"右键菜单",
+        "href":"null",
+        "icon":"fa fa-mouse-pointer",
+        "level":"null",
+        "children":[
+            {
+                "id":"",
+                "name":"v-contextmenu",
+                "href":"/contextmenu"    
+            }
+        ]
+    },
+	{
+	    "id":"1100",
+	    "name":"CSS练习",
+	    "href":"null",
+	    "icon":"fa fa-css3",
+	    "level":"null",
+	    "children":[
+	        {
+	            "id":"",
+	            "name":"css-text",
+	            "href":"/csstext"    
+	        }
+	    ]
+	}
+    
+       
+]

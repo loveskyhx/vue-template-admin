@@ -1,0 +1,1128 @@
+[
+
+	[
+		{
+			"week1": {
+				"repair": "",
+				"owe": "欠休",
+				"birthday": "",
+				"applyclass": "1"
+			},
+			"week2": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "护理班",
+						"classcontent": "2-7",
+						"color": "red"
+					}, {
+						"classcontname": "信息科",
+						"classcontent": "12-77",
+						"color": "#E6A23C"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "护理研究组",
+						"classcontent": "21-35",
+						"color": "#409EFF"
+					}, {
+						"classcontname": "口腔科",
+						"classcontent": "2-7",
+						"color": "#F56C6C"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"classmessage": [
+					{
+						"classcontname": "医务班",
+						"classcontent": "33-80",
+						"color": "#E6A23C"
+					}
+				]
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"sum": "40h",
+			"bxqx": {
+				"bx": "1",
+				"qx": "2"
+			}
+		}, {
+			"week1": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}, {
+						"classcontname": "皮肤科",
+						"classcontent": "+10-160",
+						"color": "#67C23A"
+					}, {
+						"classcontname": "化疗室",
+						"classcontent": "+5-16",
+						"color": "#909399"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week6": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": ""
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": ""
+			},
+			"sum": "55h",
+			"bxqx": {
+				"bx": "2",
+				"qx": "5"
+			}
+		}, {
+			"week1": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "+90-150",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week6": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"sum": "10h",
+			"bxqx": {
+				"bx": "6",
+				"qx": "8"
+			}
+		}, {
+			"week1": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "10-35",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "5-8",
+						"color": "green"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "口腔科",
+						"classcontent": "3-55",
+						"color": "#303133"
+					}, {
+						"classcontname": "综合管理部门",
+						"classcontent": "3-55",
+						"color": "#FF00FF"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "皮肤科",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "5-8",
+						"color": "green"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "皮肤科",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "库管室",
+						"classcontent": "11-12",
+						"color": "#00FFFF"
+					}, {
+						"classcontname": "癌症科",
+						"classcontent": "+12-45",
+						"color": "#483D8B"
+					}, {
+						"classcontname": "耳鼻喉科",
+						"classcontent": "16-45",
+						"color": "#00FF7F"
+					}, {
+						"classcontname": "骨科",
+						"classcontent": "+10-15",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"repair": "",
+				"owe": "欠休"
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "1",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"sum": "60h",
+			"bxqx": {
+				"bx": "10",
+				"qx": "12"
+			}
+		}, {
+			"week1": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": "1"
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "小夜班",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "夜班",
+						"classcontent": "1-8",
+						"color": "green"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": "欠休"
+			},
+			"sum": "69h",
+			"bxqx": {
+				"bx": "7",
+				"qx": "3"
+			}
+		}, {
+			"week1": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": "1"
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "小夜班",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "夜班",
+						"classcontent": "1-8",
+						"color": "green"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": "欠休"
+			},
+			"sum": "69h",
+			"bxqx": {
+				"bx": "7",
+				"qx": "3"
+			}
+		}
+	],
+
+
+
+	[
+		{
+			"week1": {
+				"repair": "",
+				"owe": "欠休",
+				"birthday": "",
+				"applyclass": "1"
+			},
+			"week2": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "护理班",
+						"classcontent": "2-7",
+						"color": "red"
+					}, {
+						"classcontname": "信息科",
+						"classcontent": "12-77",
+						"color": "#E6A23C"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "护理研究组",
+						"classcontent": "21-35",
+						"color": "#409EFF"
+					}, {
+						"classcontname": "口腔科",
+						"classcontent": "2-7",
+						"color": "#F56C6C"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"classmessage": [
+					{
+						"classcontname": "医务班",
+						"classcontent": "33-80",
+						"color": "#E6A23C"
+					}
+				]
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"sum": "40h",
+			"bxqx": {
+				"bx": "1",
+				"qx": "2"
+			}
+		}, {
+			"week1": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}, {
+						"classcontname": "皮肤科",
+						"classcontent": "+10-160",
+						"color": "#67C23A"
+					}, {
+						"classcontname": "化疗室",
+						"classcontent": "+5-16",
+						"color": "#909399"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week6": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": ""
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": ""
+			},
+			"sum": "55h",
+			"bxqx": {
+				"bx": "2",
+				"qx": "5"
+			}
+		}, {
+			"week1": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "+90-150",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "4-7",
+						"color": "green"
+					}, {
+						"classcontname": "办公班",
+						"classcontent": "3-8",
+						"color": "violet"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "9-15",
+						"color": "red"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week6": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"week7": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "",
+				"applyclass": ""
+			},
+			"sum": "10h",
+			"bxqx": {
+				"bx": "6",
+				"qx": "8"
+			}
+		}, {
+			"week1": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "责任班",
+						"classcontent": "10-35",
+						"color": "red"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "5-8",
+						"color": "green"
+					}
+				]
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "口腔科",
+						"classcontent": "3-55",
+						"color": "#303133"
+					}, {
+						"classcontname": "综合管理部门",
+						"classcontent": "3-55",
+						"color": "#FF00FF"
+					}, {
+						"classcontname": "行政班",
+						"classcontent": "+120-160",
+						"color": "blue"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "皮肤科",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "辅助班",
+						"classcontent": "5-8",
+						"color": "green"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "皮肤科",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "库管室",
+						"classcontent": "11-12",
+						"color": "#00FFFF"
+					}, {
+						"classcontname": "癌症科",
+						"classcontent": "+12-45",
+						"color": "#483D8B"
+					}, {
+						"classcontname": "耳鼻喉科",
+						"classcontent": "16-45",
+						"color": "#00FF7F"
+					}, {
+						"classcontname": "骨科",
+						"classcontent": "+10-15",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"repair": "",
+				"owe": "欠休"
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "1",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"sum": "60h",
+			"bxqx": {
+				"bx": "10",
+				"qx": "12"
+			}
+		}, {
+			"week1": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": "1"
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "小夜班",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "夜班",
+						"classcontent": "1-8",
+						"color": "green"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": "欠休"
+			},
+			"sum": "69h",
+			"bxqx": {
+				"bx": "7",
+				"qx": "3"
+			}
+		}, {
+			"week1": {
+				"repair": "休",
+				"owe": "",
+				"birthday": "1",
+				"applyclass": "1"
+			},
+			"week2": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "小夜班",
+						"classcontent": "+120-156",
+						"color": "#2F4F4F"
+					}, {
+						"classcontname": "夜班",
+						"classcontent": "1-8",
+						"color": "green"
+					}
+				]
+			},
+			"week3": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week4": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week5": {
+				"birthday": "1",
+				"applyclass": "1",
+				"classmessage": [
+					{
+						"classcontname": "午间(中)",
+						"classcontent": "1+-99",
+						"color": "#D2B48C"
+					}, {
+						"classcontname": "夜班(后)",
+						"classcontent": "6-80",
+						"color": "#FF4500"
+					}
+				]
+			},
+			"week6": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": ""
+			},
+			"week7": {
+				"birthday": "",
+				"applyclass": "",
+				"repair": "休",
+				"owe": "欠休"
+			},
+			"sum": "69h",
+			"bxqx": {
+				"bx": "7",
+				"qx": "3"
+			}
+		}
+	]
+]
