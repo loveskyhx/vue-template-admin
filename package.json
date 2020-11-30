@@ -2,7 +2,13 @@
   "name": "",
   "description": "",
   "author": "HX",
-  "private": true,
+  "private": false,
+  "keywords": [
+    "vue","element","排班","live2d","模板","组件集合","动态换肤"
+  ],
+  "files":[
+	  "node_modules"
+  ],
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --env.dev",
     "build": "rimraf dist && webpack -p --progress --hide-modules"

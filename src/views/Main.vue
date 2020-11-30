@@ -92,7 +92,7 @@
 			</el-container>
 			<!--尾部-->
 			<el-footer class="footer" height='23px'>
-				<a><i class="fa fa-github hubstyle" ></i></a>
+				<a class="footer-hub" href="https://github.com/loveskyhx/vueTemplate-admin-hx"  target="_blank"><i class="fa fa-github hubstyle" ></i></a>
 			</el-footer>
 		</el-container>
 
@@ -375,5 +375,8 @@
 	.hubstyle{
 		font-size: 22px;
 		vertical-align: middle;
+	}
+	.footer-hub{
+		color: white;
 	}
 </style>
