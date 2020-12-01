@@ -52,8 +52,7 @@
     <script>
     // 引入导出Excel表格依赖
     import FileSaver from "file-saver";
-    // import XLSX from "xlsx";
-
+    import XLSX from "xlsx";
     export default {
     name: "javascriptthree",
     data() {
