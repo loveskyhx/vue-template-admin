@@ -31,7 +31,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:loveskyhx/vueTemplate-admin-hx.git"
+		"url": "git@github.com:loveskyhx/vue-template-admin.git"
 	},
 	"scripts": {
 		"dev": "webpack-dev-server --inline --hot --env.dev",
